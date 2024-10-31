@@ -1,6 +1,6 @@
 from pybit.unified_trading import HTTP
 
-session = HTTP(api_key="Enter your key", api_secret="")
+session = HTTP(api_key="Enter your key", api_secret="Enter your key")
 try:
     response = session.get_wallet_balance(accountType="UNIFIED", coin="USDT")
 
