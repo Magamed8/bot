@@ -10,4 +10,3 @@ A simple Python bot that retrieves and displays account balances from Bybit usin
 
 - **Bybit Account**: You need an active Bybit account.
 - **API Key and Secret**: Generate these from Bybit's **API Management** under your account settings with "Account Info" permissions.
-
